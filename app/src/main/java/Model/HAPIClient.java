@@ -20,7 +20,7 @@ public class HAPIClient implements FHIRClient {
     private FhirContext ctx;
     private IGenericClient client;
     private String monashBaseUrl = "https://fhir.monash.edu/hapi-fhir-jpaserver/fhir";
-    private String flaskBaseUrl = "https://flask-backend-healthapp.azurewebsites.net";
+    private String flaskBaseUrl = "https://fit3077-flask-backend.azurewebsites.net/";
 
     public HAPIClient() {
         ctx = FhirContext.forR4();
