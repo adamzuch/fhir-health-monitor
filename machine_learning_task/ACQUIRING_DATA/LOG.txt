@@ -1,0 +1,100 @@
+
+======================================================================================
+date and time = 20/05/2020 16:47:20
+Running Acquiring Data for machine model - 
+
+Getting Patient ID List Running-
+Number of IDs: 1000
+Taken--- 10.056413173675537 seconds ---
+
+Getting Patient Data (indicated by patient ID List) from server running - 
+Taken--- 39.72700905799866 seconds ---
+
+Processing Patient Data running -
+Total patients now is:539
+The chosen conditions are:
+65.3061224489796% of patients have Platelet distribution width [Entitic volume] in Blood by Automated count
+63.821892393320965% of patients have Platelets [#/volume] in Blood by Automated count
+63.26530612244898% of patients have Erythrocyte distribution width [Entitic volume] by Automated count
+64.19294990723562% of patients have MCHC [Mass/volume] by Automated count
+64.56400742115028% of patients have Platelet mean volume [Entitic volume] in Blood by Automated count
+96.84601113172542% of patients have Body Mass Index
+97.03153988868274% of patients have Body Weight
+97.58812615955473% of patients have Pain severity - 0-10 verbal numeric rating [Score] - Reported
+96.28942486085343% of patients have Body Height
+97.21706864564007% of patients have Diastolic Blood Pressure
+97.21706864564007% of patients have Systolic Blood Pressure
+98.51576994434137% of patients have Triglycerides
+100.0% of patients have Total Cholesterol
+96.28942486085343% of patients have High Density Lipoprotein Cholesterol
+97.21706864564007% of patients have Low Density Lipoprotein Cholesterol
+64.93506493506493% of patients have Erythrocytes [#/volume] in Blood by Automated count
+64.93506493506493% of patients have Leukocytes [#/volume] in Blood by Automated count
+63.26530612244898% of patients have Hematocrit [Volume Fraction] of Blood by Automated count
+64.7495361781076% of patients have Hemoglobin [Mass/volume] in Blood
+64.37847866419295% of patients have MCH [Entitic mass] by Automated count
+64.0074211502783% of patients have MCV [Entitic volume] by Automated count
+291 Number of patients dropped
+Remaining number of patients that can be put to the database: 248
+Taken--- 0.19735980033874512 seconds ---
+
+Processing Patient Health Data into viewable format running - 
+Taken--- 0.061147451400756836 seconds ---
+
+Adding more Non-Health features to the patients running -
+Final Number of Patients: 248
+--- 6.859060287475586 seconds ---
+
+Presenting Data into a nice format is running -
+--- 0.28293275833129883 seconds ---
+Entire Operation has taken--- 57.1949028968811 seconds ---
+
+======================================================================================
+20/05/2020 16:49:01
+Running Acquiring Data for machine model - 
+
+Getting Patient ID List Running-
+Number of IDs: 1000
+Taken--- 14.495460510253906 seconds ---
+
+Getting Patient Data (indicated by patient ID List) from server running - 
+Taken--- 42.75330090522766 seconds ---
+
+Processing Patient Data running -
+Total patients now is:539
+The chosen conditions are:
+65.3061224489796% of patients have Platelet distribution width [Entitic volume] in Blood by Automated count
+63.821892393320965% of patients have Platelets [#/volume] in Blood by Automated count
+63.26530612244898% of patients have Erythrocyte distribution width [Entitic volume] by Automated count
+64.19294990723562% of patients have MCHC [Mass/volume] by Automated count
+64.56400742115028% of patients have Platelet mean volume [Entitic volume] in Blood by Automated count
+96.84601113172542% of patients have Body Mass Index
+97.03153988868274% of patients have Body Weight
+97.58812615955473% of patients have Pain severity - 0-10 verbal numeric rating [Score] - Reported
+96.28942486085343% of patients have Body Height
+97.21706864564007% of patients have Diastolic Blood Pressure
+97.21706864564007% of patients have Systolic Blood Pressure
+98.51576994434137% of patients have Triglycerides
+100.0% of patients have Total Cholesterol
+96.28942486085343% of patients have High Density Lipoprotein Cholesterol
+97.21706864564007% of patients have Low Density Lipoprotein Cholesterol
+64.93506493506493% of patients have Erythrocytes [#/volume] in Blood by Automated count
+64.93506493506493% of patients have Leukocytes [#/volume] in Blood by Automated count
+63.26530612244898% of patients have Hematocrit [Volume Fraction] of Blood by Automated count
+64.7495361781076% of patients have Hemoglobin [Mass/volume] in Blood
+64.37847866419295% of patients have MCH [Entitic mass] by Automated count
+64.0074211502783% of patients have MCV [Entitic volume] by Automated count
+291 Number of patients dropped
+Remaining number of patients that can be put to the database: 248
+Taken--- 0.20545291900634766 seconds ---
+
+Processing Patient Health Data into viewable format running - 
+Taken--- 0.07280659675598145 seconds ---
+
+Adding more Non-Health features to the patients running -
+Final Number of Patients: 248
+--- 8.669518947601318 seconds ---
+
+Presenting Data into a nice format is running -
+--- 0.3280932903289795 seconds ---
+Entire Operation has taken--- 66.53765439987183 seconds ---

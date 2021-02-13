@@ -1,0 +1,3 @@
+# Exclude rendered HTML from GitHub language statistics
+machine_learning_task/CreatingMachineLearningModel.html linguist-vendored=false
+machine_learning_task/PatientData_HumanView.html linguist-vendored=false 

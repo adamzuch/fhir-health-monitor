@@ -1,0 +1,9 @@
+# IntelliJ
+.gradle
+.idea
+build
+*.iml
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints
