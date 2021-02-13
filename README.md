@@ -2,6 +2,8 @@
 
 Created by [Malavan Srikumar](https://github.com/maladeveloper) and [Adam Zuchowicz](https://github.com/adamzuch).
 
+![preview](img/preview.png)
+
 ## Description
 This repository contains the source code for a FHIR Health Monitor application created for FIT3077 - Software engineering: Architecture and design.
 
