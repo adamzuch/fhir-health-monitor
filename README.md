@@ -5,7 +5,7 @@ Created by [Malavan Srikumar](https://github.com/maladeveloper) and [Adam Zuchow
 ![preview](img/preview.png)
 
 ## Description
-This repository contains the source code for a FHIR Health Monitor application created for FIT3077 - Software engineering: Architecture and design.
+This repository contains the source code for a FHIR Health Monitor application created for assignment 2 and 3 of FIT3077 - Software engineering: Architecture and design.
 
 The main purpose of this assignment was to create a maintainable and extensible system using object oriented design patterns and principles.
 
@@ -13,11 +13,11 @@ Bonus marks were awarded for using machine learning to predict what causes a hig
 
 ### Results
 
-* Assignment 2 - **113.33%** (bonus marks awarded)
-* Assignment 3 - **92.86%**
+* Assignment 2: **113.33%** (bonus marks awarded)
+* Assignment 3: **92.86%**
 
 ## Requirements
-This project came in two stages; Assginment 2 and Assignment 3. The requirements of the application at each stage is outlined below.
+This project came in two stages - assignment 2 and assignment 3. The features of the application at each stage are outlined below.
 
 ### Assignment 2
 * Practitioners can access a list of their patients by logging in with their id.
@@ -25,6 +25,7 @@ This project came in two stages; Assginment 2 and Assignment 3. The requirements
 * Practitioners can set the frequency (N seconds) with which the monitor refreshes the total cholesterol value.
 * Practitioners can easily add or remove patients from the monitor view without restarting the application.
 * Patients whose total cholesterol value is above the average of monitored patients is highlighted in red.
+* Practitioners can click on a patient to reveal more information about them such as date of birth, gender and address (including city, state, country).
 
 ### Assignment 3
 Contains all the features from assignment 2 as well as additional ones outlined below:
